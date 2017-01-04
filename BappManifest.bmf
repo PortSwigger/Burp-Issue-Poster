@@ -1,0 +1,11 @@
+Uuid: 5e1ec745965b4e768d1f4908cc5cf22d
+ExtensionType: 1
+Name: Issue Poster
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: Bryant Zadegan
+ShortDescription: Posts discovered Scanner issues to an external web service.
+EntryPoint: build/jar/BurpIssuePoster.jar
+BuildCommand: ant

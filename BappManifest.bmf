@@ -1,6 +1,7 @@
 Uuid: 5e1ec745965b4e768d1f4908cc5cf22d
 ExtensionType: 1
 Name: Issue Poster
+RepoName: issue-poster
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
